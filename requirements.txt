@@ -1,12 +1,12 @@
-streamlit
-pandas
-yfinance
-plotly
-numpy
-scikit-learn
-ta
-pandas-ta
-statsmodels
-python-dateutil
-setuptools
+streamlit==1.24.1
+pandas==1.5.3
+yfinance==0.2.22
+plotly==5.15.0
+numpy==1.24.0
+scikit-learn==1.2.0
+ta==0.10.0
+pandas-ta==0.3.14
+statsmodels==0.14.0
+python-dateutil==2.8.2
+setuptools==65.5.0
 
