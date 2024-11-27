@@ -2,7 +2,7 @@ streamlit
 pandas
 yfinance
 plotly
-numpy==1.19.5
+numpy==1.23.5
 scikit-learn
 ta
 pandas-ta==0.3.14b0
