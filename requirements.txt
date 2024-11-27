@@ -7,4 +7,4 @@ scikit-learn
 ta
 pandas-ta
 statsmodels
-dateutil
+python-dateutil
