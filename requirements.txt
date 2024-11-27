@@ -8,3 +8,5 @@ ta
 pandas-ta
 statsmodels
 python-dateutil
+setuptools
+
