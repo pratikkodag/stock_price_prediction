@@ -2,7 +2,7 @@ streamlit==1.24.1
 pandas==1.5.3
 yfinance==0.2.22
 plotly==5.15.0
-numpy==1.24.0
+numpy==1.23.5
 scikit-learn==1.2.0
 ta==0.10.0
 pandas-ta==0.3.14
