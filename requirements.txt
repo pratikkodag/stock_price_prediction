@@ -2,10 +2,10 @@ streamlit
 pandas
 yfinance
 plotly
-numpy==1.23.5
+numpy
 scikit-learn
 ta
-pandas-ta==0.3.14b0
+pandas-ta
 statsmodels
 python-dateutil
 setuptools
