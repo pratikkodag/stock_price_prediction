@@ -1,3 +1,4 @@
+## StockLens: AI-Driven Price Analysis and Prediction
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/74b77378-fbd1-4d71-a729-e7d964a3d1f2">
 
 ## Stock Price Prediction 
