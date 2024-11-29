@@ -8,7 +8,8 @@ import dateutil
 import ta
 import plotly.express as px
 import pandas_ta as pta
-
+import numpy as np
+npNaN = np.nan
 
 st.set_page_config(
     page_title="Stock Analysis",
