@@ -8,7 +8,7 @@ st.set_page_config(
 )
 
 # Title and Header
-st.title("Trading App 📈")
+st.title("StockLens: AI-Driven Price Analysis and Prediction")
 st.header("Empowering Your Investment Journey")
 
 # Introduction with quotes
