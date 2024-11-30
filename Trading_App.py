@@ -16,7 +16,7 @@ st.subheader("“An investment in knowledge pays the best interest.” – Benja
 st.write("Welcome to the **Trading App**, your trusted companion in navigating the financial markets. Whether you're a seasoned investor or just starting, our platform offers all the tools and insights you need to make informed decisions.")
 
 # Stock Image
-st.image('stock_image.jpg', use_column_width=True)
+st.image('stock_image.jpg',use_container_width=True)
 
 # Overview of App Features
 st.markdown("## What We Offer")
